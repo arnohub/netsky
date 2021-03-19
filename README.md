@@ -114,4 +114,4 @@ nohup python3.9 netsky_alert.py > ./netsky_alert.log 2>&1 &
 ![image](https://github.com/arnohub/netsky/blob/main/example.png)
 
 ### 联系方式
-If you have any problems or questions with NetSky, please contact me WebChat:zkpws2010 email:639188185@qq.com
+If you have any problems or questions with NetSky, please contact me WeChat:zkpws2010 email:639188185@qq.com
